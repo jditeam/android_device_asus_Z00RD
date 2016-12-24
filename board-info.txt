@@ -1,0 +1,2 @@
+require version-variant=ZE500KG
+#require version-trustzone=TZ.BF.3.0.C3-00025
