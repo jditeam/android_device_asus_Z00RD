@@ -6,7 +6,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit from device specific
-$(call inherit-product, device/asus/Z00ED/full_Z00RD.mk)
+$(call inherit-product, device/asus/Z00RD/full_Z00RD.mk)
 
 PRODUCT_NAME := cm_Z00RD
 PRODUCT_DEVICE := Z00RD
