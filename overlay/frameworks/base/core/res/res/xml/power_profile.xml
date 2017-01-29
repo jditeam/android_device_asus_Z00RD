@@ -29,10 +29,6 @@
         <value>1094400</value>
         <value>1152000</value>
         <value>1209600</value>
-        <value>345600</value>
-        <value>960000</value>
-        <value>1113600</value>
-        <value>1363200</value>
     </array>
     <item name="cpu.idle">2.33</item>
     <array name="cpu.active">
@@ -44,10 +40,6 @@
         <value>185.14</value>
         <value>191.84</value>
         <value>233.88</value>
-        <value>241</value>
-        <value>299</value>
-        <value>302</value>
-        <value>255</value>
     </array>
     <item name="battery.capacity">2070</item>
     <array name="wifi.batchedscan">
