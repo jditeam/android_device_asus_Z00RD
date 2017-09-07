@@ -17,7 +17,7 @@
 <resources>
 
     <!-- Show enabled lte option for lte device -->
-    <!-- Z00RD don't support LTE - overwrite common settings -->
+    <!-- Z00RD don't support LTE - override common settings -->
     <bool name="config_enabled_lte" translatable="false">false</bool>
 
 </resources>
